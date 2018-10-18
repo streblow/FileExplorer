@@ -1,0 +1,778 @@
+[
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_action_cut.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/action_cut.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_rename.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/ic_action_rename.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_delete.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/ic_action_delete.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_action_cut.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/action_cut.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/menu_context_menu.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/menu/context_menu.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_add.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/ic_action_add.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_ic_action_paste_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/ic_action_paste_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_list_actions_blu.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/list_actions_blu.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_ic_action_delete_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/ic_action_delete_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/anim_shrink_from_top.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/anim/shrink_from_top.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/raw_info.txt.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/raw/info.txt"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_ic_action_add_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/ic_action_add_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi-v11_ic_notif_sdcard_rescan.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi-v11/ic_notif_sdcard_rescan.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_bookmark_icon.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/bookmark_icon.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_ic_action_copy_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/ic_action_copy_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_action_share.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/action_share.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_ic_action_select_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/ic_action_select_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_ic_action_cut.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/ic_action_cut.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_copy.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/ic_action_copy.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/anim_rail.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/anim/rail.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_ic_action_refresh.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_filetype_music.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/filetype_music.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_filetype_video.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/filetype_video.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_icon.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/menu_picker_options_menu.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/menu/picker_options_menu.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_filetype_sys_dir.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/filetype_sys_dir.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_delete_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/ic_action_delete_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/anim_shrink_from_bottom.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/anim/shrink_from_bottom.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_ic_action_navigate_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/ic_action_navigate_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_list_actions.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/list_actions.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_ic_action_add_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/ic_action_add_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_ic_action_cut_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/ic_action_cut_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_filetype_video.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/filetype_video.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_ic_action_delete.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/ic_action_delete.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_ic_action_rename.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/ic_action_rename.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_add_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/ic_action_add_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_ic_action_delete_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/ic_action_delete_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_ic_action_add.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/ic_action_add.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable_ic_about.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable/ic_about.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_bookmark_icon.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/bookmark_icon.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_ic_action_cut_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/ic_action_cut_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_ic_action_refresh.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable_list_item_bg_dark.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable/list_item_bg_dark.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_ic_action_copy.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/ic_action_copy.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_paste_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/ic_action_paste_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_ic_action_copy.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/ic_action_copy.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable_about.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable/about.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_filetype_sys_file.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/filetype_sys_file.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_filetype_sdcard.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/filetype_sdcard.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/anim_grow_from_top.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/anim/grow_from_top.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_ic_action_share.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/ic_action_share.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_list_actions.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/list_actions.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_filetype_dir.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/filetype_dir.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_filetype_sdcard.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/filetype_sdcard.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_filetype_video.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/filetype_video.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_ic_action_navigate_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/ic_action_navigate_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_ic_action_rename_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/ic_action_rename_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_ic_action_delete.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/ic_action_delete.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/anim_shrink_from_topleft_to_bottomright.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/anim/shrink_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_cut_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/ic_action_cut_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/xml_nav_prefs.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/xml/nav_prefs.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_filetype_generic.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/filetype_generic.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_ic_action_copy_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/ic_action_copy_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_filetype_music.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/filetype_music.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_ic_action_rename.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/ic_action_rename.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_action_share.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/action_share.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_filetype_image.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/filetype_image.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_action_zip.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/action_zip.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/xml_about_prefs.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/xml/about_prefs.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_paste.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/ic_action_paste.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_action_copy.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/action_copy.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_filetype_dir.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/filetype_dir.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_ic_action_paste.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/ic_action_paste.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi-v11_ic_notif_sdcard_rescan.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi-v11/ic_notif_sdcard_rescan.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_ic_action_select.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/ic_action_select.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_action_copy.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/action_copy.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_filetype_video.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/filetype_video.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_action_copy.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/action_copy.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_icon.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_ic_action_cut.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/ic_action_cut.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_filetype_sys_dir.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/filetype_sys_dir.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_navigate_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/ic_action_navigate_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_ic_action_rename_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/ic_action_rename_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_ic_action_navigate.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/ic_action_navigate.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_ic_action_delete.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/ic_action_delete.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_select_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/ic_action_select_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/layout_explorer_item.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/layout/explorer_item.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_ic_action_share_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/ic_action_share_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_ic_action_paste_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/ic_action_paste_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_ic_action_select_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/ic_action_select_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_filetype_sys_dir.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/filetype_sys_dir.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_action_share.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/action_share.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/xml_view_prefs.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/xml/view_prefs.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_ic_action_select.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/ic_action_select.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_share.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_filetype_zip.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/filetype_zip.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/layout_main.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_ic_action_share_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/ic_action_share_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_action_zip.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/action_zip.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_filetype_sdcard.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/filetype_sdcard.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_action_zip.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/action_zip.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_ic_action_rename.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/ic_action_rename.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_filetype_sys_dir.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/filetype_sys_dir.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/raw-de_info.txt.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/raw-de/info.txt"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_icon.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_filetype_dir.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/filetype_dir.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_ic_action_cut_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/ic_action_cut_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_filetype_zip.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/filetype_zip.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/xml_geeky_prefs.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/xml/geeky_prefs.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_ic_action_copy_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/ic_action_copy_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi-v11_ic_notif_sdcard_rescan.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi-v11/ic_notif_sdcard_rescan.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_ic_action_copy.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/ic_action_copy.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_action_delete.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/action_delete.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_filetype_sys_file.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/filetype_sys_file.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_list_actions.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/list_actions.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_refresh_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/ic_action_refresh_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_ic_action_paste.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/ic_action_paste.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_list_actions_glow.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/list_actions_glow.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/xml_prefs.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/xml/prefs.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_list_actions_blu.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/list_actions_blu.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_action_delete.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/action_delete.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xxhdpi-v11_ic_notif_sdcard_rescan.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xxhdpi-v11/ic_notif_sdcard_rescan.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/anim_grow_from_bottomleft_to_topright.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/anim/grow_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_ic_action_paste_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/ic_action_paste_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_bookmark_icon.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/bookmark_icon.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_filetype_dir.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/filetype_dir.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/menu_options_menu.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/menu/options_menu.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/anim_shrink_from_bottomright_to_topleft.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/anim/shrink_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/anim_grow_from_topleft_to_bottomright.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/anim/grow_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_filetype_generic.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/filetype_generic.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/anim_grow_from_topright_to_bottomleft.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/anim/grow_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_ic_action_add_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/ic_action_add_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_bookmark_icon.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/bookmark_icon.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/layout_about.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable_list_item_bg_light.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable/list_item_bg_light.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_filetype_sys_file.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/filetype_sys_file.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_filetype_apk.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/filetype_apk.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_action_delete.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/action_delete.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_filetype_music.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/filetype_music.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_ic_action_add.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/ic_action_add.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/anim_shrink_from_bottomleft_to_topright.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/anim/shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_refresh.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_copy_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/ic_action_copy_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/anim_grow_from_bottomright_to_topleft.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/anim/grow_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_ic_action_navigate.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/ic_action_navigate.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_filetype_music.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/filetype_music.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/raw-de_legal.txt.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/raw-de/legal.txt"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_ic_action_share_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/ic_action_share_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/anim_shrink_from_topright_to_bottomleft.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/anim/shrink_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_filetype_sys_file.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/filetype_sys_file.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_filetype_apk.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/filetype_apk.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_action_delete.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/action_delete.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_filetype_zip.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/filetype_zip.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_ic_action_share.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_ic_action_refresh.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_navigate.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/ic_action_navigate.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_ic_action_navigate_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/ic_action_navigate_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/menu_bookmarks_options_menu.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/menu/bookmarks_options_menu.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_ic_action_refresh_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/ic_action_refresh_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_filetype_image.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/filetype_image.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_action_share.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/action_share.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_ic_action_paste.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/ic_action_paste.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_ic_action_add.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/ic_action_add.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_ic_action_navigate.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/ic_action_navigate.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_share_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/ic_action_share_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_action_zip.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/action_zip.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_ic_action_rename_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/ic_action_rename_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_ic_action_delete_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/ic_action_delete_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_action_cut.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/action_cut.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_filetype_zip.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/filetype_zip.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_ic_action_refresh_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/ic_action_refresh_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_ic_action_share.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_action_cut.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/action_cut.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_ic_action_select.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/ic_action_select.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_ic_action_select_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/ic_action_select_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_filetype_generic.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/filetype_generic.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_list_actions_blu.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/list_actions_blu.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_ic_action_refresh_light.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/ic_action_refresh_light.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_list_actions_glow.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/list_actions_glow.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_filetype_apk.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/filetype_apk.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_ic_action_cut.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/ic_action_cut.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_filetype_generic.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/filetype_generic.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/anim_grow_from_bottom.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/anim/grow_from_bottom.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/raw_legal.txt.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/raw/legal.txt"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_select.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/ic_action_select.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_cut.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/ic_action_cut.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_filetype_apk.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/filetype_apk.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/layout_bookmark_list_item.xml.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/layout/bookmark_list_item.xml"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_filetype_sdcard.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/filetype_sdcard.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_list_actions_glow.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/list_actions_glow.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-xhdpi_filetype_image.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-xhdpi/filetype_image.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-hdpi_icon.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-mdpi_action_copy.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-mdpi/action_copy.png"
+    },
+    {
+        "merged": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/res/merged/release/drawable-ldpi_filetype_image.png.flat",
+        "source": "/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/res/drawable-ldpi/filetype_image.png"
+    }
+]

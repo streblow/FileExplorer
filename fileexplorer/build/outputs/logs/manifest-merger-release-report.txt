@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml
+		INJECTED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:2:1-54:12
+		INJECTED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:2:1-54:12
+		INJECTED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:4:5-35
+permission-group#android.permission-group.STORAGE
+ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:6:5-7:24
+	android:name
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:6:23-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:9:22-78
+application
+ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:11:5-52:19
+	android:label
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:13:9-38
+	android:name
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:12:9-40
+activity#de.streblow.fileexplorer.activity.FileListActivity
+ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:15:9-38:20
+	android:label
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:18:13-45
+	android:uiOptions
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:20:13-57
+	android:configChanges
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:17:13-48
+	android:theme
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:19:13-54
+	android:name
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:16:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:24:27-74
+intent-filter#action:name:de.streblow.fileexplorer.action.OPEN_FOLDER+category:name:android.intent.category.DEFAULT
+ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:27:13-30:29
+action#de.streblow.fileexplorer.action.OPEN_FOLDER
+ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:28:17-86
+	android:name
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:28:25-83
+category#android.intent.category.DEFAULT
+ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:29:27-73
+intent-filter#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.OPENABLE+data:mimeType:*/*
+ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:32:13-37:29
+	android:label
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:32:28-61
+action#android.intent.action.GET_CONTENT
+ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:33:25-73
+data
+ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:34:17-47
+	android:mimeType
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:34:23-45
+category#android.intent.category.OPENABLE
+ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:36:27-74
+activity#de.streblow.fileexplorer.activity.BookmarkListActivity
+ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:39:9-47:20
+	android:label
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:42:13-46
+	android:icon
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:40:13-51
+	android:name
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:41:13-58
+intent-filter#action:name:de.streblow.fileexplorer.action.OPEN_BOOKMARKS+category:name:android.intent.category.DEFAULT
+ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:43:14-46:29
+action#de.streblow.fileexplorer.action.OPEN_BOOKMARKS
+ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:44:17-89
+	android:name
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:44:25-86
+activity#de.streblow.fileexplorer.activity.SettingsActivity
+ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:50:13-45
+	android:name
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml:49:13-54
+uses-sdk
+INJECTED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml
+INJECTED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml
+INJECTED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml
+INJECTED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml
+		INJECTED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml
+		ADDED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml
+		INJECTED from /home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/src/main/AndroidManifest.xml

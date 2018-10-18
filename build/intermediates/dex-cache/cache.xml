@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\android-file-explorer\fileexplorer\src\main\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="D:\AndroidStudio\android-file-explorer\fileexplorer\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+
+</items>

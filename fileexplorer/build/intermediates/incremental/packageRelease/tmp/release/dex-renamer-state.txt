@@ -1,0 +1,4 @@
+#Thu Oct 18 21:49:18 CEST 2018
+base.0=/home/streblow/AndroidStudioProjects/FileExplorer/fileexplorer/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
