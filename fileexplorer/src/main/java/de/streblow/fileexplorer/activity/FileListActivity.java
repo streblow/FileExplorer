@@ -1,5 +1,6 @@
 package de.streblow.fileexplorer.activity;
 
+import android.Manifest;
 import android.app.ActionBar;
 import android.app.ActionBar.OnNavigationListener;
 import android.app.Activity;
@@ -7,7 +8,9 @@ import android.app.AlertDialog;
 import android.app.AlertDialog.Builder;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.ActionMode;
@@ -23,6 +26,7 @@ import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import de.streblow.fileexplorer.FileExplorerApp;
 import de.streblow.fileexplorer.R;
@@ -61,6 +65,8 @@ public class FileListActivity extends BaseFileListActivity {
 	private boolean focusOnParent;
 	private boolean excludeFromMedia  = false;
 
+	private static final int MY_PERMISSIONS = 0;
+
 	/** Called when the activity is first created. */
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
@@ -78,6 +84,8 @@ public class FileListActivity extends BaseFileListActivity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.main);
 		prepareActionBar();
+		askPermissions(new String[]{Manifest.permission.READ_EXTERNAL_STORAGE,
+				Manifest.permission.WRITE_EXTERNAL_STORAGE});
 		initRootDir(savedInstanceState);
 
 		files = new ArrayList<FileListEntry>();
@@ -641,7 +649,7 @@ public class FileListActivity extends BaseFileListActivity {
 		ActionBar ab = getActionBar();
 		ab.setSelectedNavigationItem(0);
 		
-		ab.setSubtitle(getString(R.string.item_count_subtitle, children.size()));				
+		ab.setSubtitle(getString(R.string.item_count_subtitle, Integer.toString(children.size())));
 		if(Util.isRoot(currentDir) || currentDir.getParentFile()==null)
     	{
 			ab.setDisplayHomeAsUpEnabled(false);
@@ -673,6 +681,38 @@ public class FileListActivity extends BaseFileListActivity {
 
 	public File getCurrentDir() {
 		return currentDir;
+	}
+
+	// With Android Level >= 23, you have to ask the user
+	// for permission with device (For example read/write data on the device).
+	private void askPermissions(String[] permissionNames) {
+		if (android.os.Build.VERSION.SDK_INT >= 23) {
+			// Check if we have permission
+			List<String> permissionNeeded = new ArrayList<String>();
+			for (int i = 0; i < permissionNames.length; i++) {
+				int permission = checkSelfPermission(permissionNames[i]);
+				if (permission != PackageManager.PERMISSION_GRANTED) {
+					permissionNeeded.add(permissionNames[i]);
+				}
+			}
+			if (permissionNeeded.size() != 0) {
+				String[] permissionNeededArray = new String[permissionNeeded.size()];
+				permissionNeeded.toArray(permissionNeededArray);
+				// If don't have permission so prompt the user.
+				this.requestPermissions(permissionNeededArray, 100);
+			}
+		}
+	}
+
+	// When you have the request results
+	@Override
+	public void onRequestPermissionsResult(int requestCode, String permissions[], int[] grantResults) {
+
+		super.onRequestPermissionsResult(requestCode, permissions, grantResults);
+		// Note: If request is cancelled, the result arrays are empty.
+		if (grantResults.length == 0) {
+			Toast.makeText(getApplicationContext(), "Some permissions denied!", Toast.LENGTH_SHORT).show();
+		}
 	}
 
 }

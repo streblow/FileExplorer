@@ -3,9 +3,7 @@
     package="de.streblow.fileexplorer"
     android:installLocation="auto">
 
-    <permission-group android:name="android.permission-group.STORAGE" >
-    </permission-group>
-
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <application
