@@ -1,6 +1,6 @@
 <h2>FileExplorer</h2>
-<b>Version 1.0 (Build 1)</b><br>
-&#169; 2018-10-18 Lars Streblow<br>
+<b>Version 1.1 (Build 2)</b><br>
+&#169; 2020-03-02 Lars Streblow<br>
 <br>
 streblow.gmxhome.de<br>
 lars.streblow@gmx.de

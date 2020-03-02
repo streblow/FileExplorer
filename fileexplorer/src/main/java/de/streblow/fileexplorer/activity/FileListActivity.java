@@ -84,8 +84,7 @@ public class FileListActivity extends BaseFileListActivity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.main);
 		prepareActionBar();
-		askPermissions(new String[]{Manifest.permission.READ_EXTERNAL_STORAGE,
-				Manifest.permission.WRITE_EXTERNAL_STORAGE});
+		askPermissions(new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE});
 		initRootDir(savedInstanceState);
 
 		files = new ArrayList<FileListEntry>();
